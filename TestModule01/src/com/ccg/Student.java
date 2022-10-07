@@ -5,4 +5,6 @@ public class Student {
     private String name;//
     private String sex ;//
     private double weight ;//
+    private String cno ;// 
+    
 }
