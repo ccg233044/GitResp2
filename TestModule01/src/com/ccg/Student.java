@@ -6,6 +6,5 @@ public class Student {
     private String sex ;//
     private double weight ;//
     private String cno ;//
-
-	private BigDecimal height ;//
+    private BigDecimal height ;//
 }
